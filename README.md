@@ -210,7 +210,6 @@ Start with `notebook1_data_generation.ipynb` — it creates the `data/` folder a
 
 **Gagan R**
 Information Science Engineering | Akash Institute of Engineering and Technology, Bengaluru
-Graduating 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/gaganr-15948b393)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/gagan-gag)
